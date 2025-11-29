@@ -8,6 +8,8 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
+1_Salary_Dashboard_Final_Dashboard.gif
+
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
